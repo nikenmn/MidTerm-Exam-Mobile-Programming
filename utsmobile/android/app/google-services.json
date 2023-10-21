@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037949925427",
+    "project_id": "utsmobile-ec6c2",
+    "storage_bucket": "utsmobile-ec6c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037949925427:android:835a2e8832a539a490cb46",
+        "android_client_info": {
+          "package_name": "com.example.utsmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037949925427-lt745b5dqrc3m0h0geuh02bodrq7fbeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LoMSKyhh9oT72kULk_WQMgCsuniuMdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037949925427-lt745b5dqrc3m0h0geuh02bodrq7fbeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
