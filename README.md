@@ -108,6 +108,8 @@ pengolahan data).
 
     ![Dokumentasi Testing](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/07abb6846769a7154a06211a17117bf1b1ba4ced/documentation_picture/testing5.jpg)
 
+    ![Dokumentasi Testing](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/6941077ad7faa48fe52ca8b28875433e1b5b3c1d/documentation_picture/detailpage.jpg)
+
 
 # 🗨️ Dokumentasi Pengembangan Sistem
 1. Designing User Interface
@@ -130,6 +132,14 @@ pengolahan data).
 
 ![Dokumentasi Group's Meeting](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/07abb6846769a7154a06211a17117bf1b1ba4ced/documentation_picture/testingdoc.jpg)
 
+# 🎯 Challenge
+1. Membuat chart kuosioner data gender, total koresponden, dan data negara asal menjadi 1 bagian.
+
+ ![Challenge 1](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/6941077ad7faa48fe52ca8b28875433e1b5b3c1d/documentation_picture/challenge1.jpg)
+
+ 2. Menambahkan Create/ Add data kuosioner baru pada aplikasi
+ ![Challenge 2](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/6941077ad7faa48fe52ca8b28875433e1b5b3c1d/documentation_picture/challenge1.jpg)
+
 
 # 💥 Contributor
     Kelompok 6 SIB 3E
@@ -138,7 +148,7 @@ pengolahan data).
     2. Muhammad Al Kindy - 2141762057 / 14
         Peran : Backend and Frontend Developer
     3. Laita Zidan
-        Peran : 'Expected' Frontend Developer = 0% contribution
+        Peran : 'Expected' Frontend Developer
 
 
 
