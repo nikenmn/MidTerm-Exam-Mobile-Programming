@@ -138,7 +138,12 @@ pengolahan data).
  ![Challenge 1](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/6941077ad7faa48fe52ca8b28875433e1b5b3c1d/documentation_picture/challenge1.jpg)
 
  2. Menambahkan Create/ Add data kuosioner baru pada aplikasi
- ![Challenge 2](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/6941077ad7faa48fe52ca8b28875433e1b5b3c1d/documentation_picture/challenge1.jpg)
+
+ ![Challenge 2](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/1cd49965a966ab94d536a74e99a1e1082b0aef7f/documentation_picture/create1.jpg)
+
+ ![Challenge 2](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/1cd49965a966ab94d536a74e99a1e1082b0aef7f/documentation_picture/create2.jpg)
+
+  ![Challenge 2](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/1cd49965a966ab94d536a74e99a1e1082b0aef7f/documentation_picture/create3.jpg)
 
 
 # 💥 Contributor
